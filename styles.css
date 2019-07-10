@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, san-sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+.headerImg {
+  text-align: center;
+}
+
+.first {
+  font-weight: bold;
+  background-color: #ccc;
+  padding: 2em 0;
+}
+
+p {
+  line-height: 1.2em;
+  margin-top: 1em;
+}
